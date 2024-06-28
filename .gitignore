@@ -16,7 +16,6 @@ media/
 db.sqlite3
 
 # IDE files
-.vscode/
 .idea/
 
 # Dependency directories
@@ -25,3 +24,7 @@ node_modules/
 
 # my modfied codes
 modfied_codes.md
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
